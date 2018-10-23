@@ -53,6 +53,8 @@ export default class Particles {
       color = `rgb(${this.getRandomColor()})`;
     }
 
+    console.log(color);
+
     return {
       x: x,
       y: y,
