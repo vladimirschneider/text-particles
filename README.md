@@ -1,4 +1,5 @@
 # shape.js
+Plugin for draw animated particles
 
 ## Example for using
 
@@ -9,6 +10,13 @@ const canvasParticlesElement = document.querySelector('#particles');
 
 new Particles(canvasParticlesElement);
 ```
+
+## Support
+
+### Cover of
+
+- [x] Text
+- [ ] Image
 
 ## options
 
