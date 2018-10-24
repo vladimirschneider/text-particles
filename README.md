@@ -1,5 +1,5 @@
 # text-particles
-Plugin for draw animated particles
+Plugin for draw animated particles on canvas
 
 ## Example for using
 
