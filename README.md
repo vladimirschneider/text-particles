@@ -1,4 +1,4 @@
-# shape.js
+# text-particles
 Plugin for draw animated particles
 
 ## Example for using
