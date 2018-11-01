@@ -1,5 +1,5 @@
-# shape.js
-Plugin for draw animated particles
+# text-particles
+Plugin for draw animated particles on canvas
 
 ## Example for using
 
