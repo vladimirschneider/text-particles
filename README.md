@@ -36,3 +36,11 @@ new Particles(canvasParticlesElement[, {options}]);
 ## License
 
 This project is available under the [MIT](https://opensource.org/licenses/mit-license.php) license.
+
+## Support
+
+<a href="https://www.browserstack.com/" target="_blank">
+  <img src="logos/browserstack.png" alt="BrowserStack" width="170">
+</a>
+
+Live tests
