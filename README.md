@@ -32,3 +32,7 @@ new Particles(canvasParticlesElement[, {options}]);
 | duration | Default: `0.1` <br> Number |
 | colors | Default: `false` <br> Array of String |
 | speed | Default: `1` <br> Number |
+
+## License
+
+This project is available under the [MIT](https://opensource.org/licenses/mit-license.php) license.
