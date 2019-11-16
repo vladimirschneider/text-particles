@@ -2,7 +2,7 @@
 
 Plugin for draw animated particles on canvas
 
-[example]: ./example.png "Example of ParticlesJS"
+<img src="examples.png" alt="ParticlesJS">
 
 ## Example for using
 
