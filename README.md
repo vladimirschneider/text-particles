@@ -1,13 +1,12 @@
-# text-particles
+# ParticlesJS
+
 Plugin for draw animated particles on canvas
+
+[example]: ./example.png "Example of ParticlesJS"
 
 ## Example for using
 
 ```javascript
-import Particles from 'particles';
-
-const canvasParticlesElement = document.querySelector('#particles');
-
 new Particles(canvasParticlesElement[, {options}]);
 ```
 

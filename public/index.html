@@ -1,3 +1,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<canvas id="particles" width="300" height="150"></canvas>
+<canvas class="js-particles" width="300" height="150"></canvas>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    new ParticlesJS(document.querySelector('.js-particles'));
+  });
+</script>
